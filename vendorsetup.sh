@@ -11,7 +11,7 @@ rm -rf vendor/xiaomi/haydn-firmware
 git clone https://gitlab.pixelexperience.org/android/vendor-blobs/vendor_xiaomi_haydn-firmware.git -b thirteen vendor/xiaomi/haydn-firmware
 
 # Miui Camera
-git clone https://gitlab.com/Alucard_Storm/haydn-miuicamera vendor/xiaomi/haydn-miuicamera
+git clone https://gitlab.com/omdouxx9951/vendor_xiaomi_haydn-miuicamera.git vendor/xiaomi/haydn-miuicamera
 
 # Health
 rm -rf vendor/qcom/opensource/healthd-ext
